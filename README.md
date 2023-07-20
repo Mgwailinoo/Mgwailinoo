@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wai Lin Oo</h1>
-<h3 align="center">A junior web developer from Myanmar</h3>
+<h3 align="center">A junior  </h3>
 <img
   align="right"
   alt="Coding"
