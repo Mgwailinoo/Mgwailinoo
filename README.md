@@ -1,18 +1,24 @@
-<h1 align="center">Hi 👋, I'm Wai Lin Oo</h1>
-<h3 align="center">A junior  </h3>
-<img
-  align="right"
-  alt="Coding"
-  width="400"
-  src="https://media0.giphy.com/media/cmCEsJZHYBPels360q/200w.webp"
-/>
+<h1 align="center">Hi there! 👋 I'm Wai Lin Oo</h1>
+<p align="center">
+  A  lifelong learner 🚀
+</p>
 
-How to reach me <br/> **wailinoowlo0218@gmail.com**
+<p align="center">
+  <img
+    align="center"
+    alt="Coding"
+    width="400"
+    src="https://media0.giphy.com/media/cmCEsJZHYBPels360q/200w.webp"
+  />
+</p>
 
+<h2 align="center">How to reach me</h2>
+<p align="center">
+  Feel free to drop me an email at: <a href="mailto:wailinoowlo0218@gmail.com">wailinoowlo0218@gmail.com</a>
+</p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h2 align="center">Languages and Tools</h2>
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
