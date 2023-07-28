@@ -6,8 +6,7 @@
   width="400"
   src="https://media0.giphy.com/media/cmCEsJZHYBPels360q/200w.webp"
 />
-- 👨‍💻 All of my projects are available at<br/>
-(https://wlo-portfolio.netlify.app/) - 📫<br/>
+
 How to reach me <br/> **wailinoowlo0218@gmail.com**
 
 
